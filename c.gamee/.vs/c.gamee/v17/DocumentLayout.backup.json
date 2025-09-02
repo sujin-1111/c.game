@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|solutionrelative:low\u0026high.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c",
+              "RelativeDocumentMoniker": "FileName.c",
+              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c",
+              "RelativeToolTip": "FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-02T09:47:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "low\u0026high.c",
+              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c",
+              "RelativeDocumentMoniker": "low\u0026high.c",
+              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c",
+              "RelativeToolTip": "low\u0026high.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-02T09:29:44.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
