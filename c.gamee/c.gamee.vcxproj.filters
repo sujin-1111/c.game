@@ -18,8 +18,5 @@
     <ClCompile Include="low&amp;high.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FileName.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,13 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\",
+  "WorkspaceRootPath": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\c.gamee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E3F9AE1D-21F9-463A-890B-FF09D8D6EF16}|..\\Tetris.game\\Tetris.game.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\Tetris.game\\tetrisgame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\c.gamee\\low\u0026high.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{873A4DEE-E9F9-4160-8747-42910504D7EF}|c.gamee.vcxproj|solutionrelative:low\u0026high.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,25 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileName.c",
-              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c",
-              "RelativeDocumentMoniker": "FileName.c",
-              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\FileName.c",
-              "RelativeToolTip": "FileName.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "tetrisgame.c",
+              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\Tetris.game\\tetrisgame.c",
+              "RelativeDocumentMoniker": "..\\Tetris.game\\tetrisgame.c",
+              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\Tetris.game\\tetrisgame.c",
+              "RelativeToolTip": "..\\Tetris.game\\tetrisgame.c",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-02T09:47:09.2Z",
+              "WhenOpened": "2025-09-03T17:10:01.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "low\u0026high.c",
-              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c",
+              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\c.gamee\\low\u0026high.c",
               "RelativeDocumentMoniker": "low\u0026high.c",
-              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.gamee\\low\u0026high.c",
+              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\c.game\\c.gamee\\low\u0026high.c",
               "RelativeToolTip": "low\u0026high.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-09-02T09:29:44.614Z",
               "EditorCaption": ""

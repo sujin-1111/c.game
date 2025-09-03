@@ -124,7 +124,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="low&amp;high.c" />
-    <ClCompile Include="FileName.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
